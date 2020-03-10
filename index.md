@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<a href="test.md">Test</a>
+[Test](test.md)
 
 You can use the [editor on GitHub](https://github.com/CreationTech2-0/CreationTech/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
