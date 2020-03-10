@@ -1,3 +1,3 @@
 ## CreationTech
 
-![CreationTech-Logo](CreationTech-Logo_neu.png)
+<center> ![CreationTech-Logo](CreationTech-Logo_neu.png) </center>
